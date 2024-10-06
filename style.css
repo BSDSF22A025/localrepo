@@ -1,9 +1,27 @@
-body
-{background-color: #da6161;
-font-family: Arial, sans-serif;
-}
-img {
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  img {
     width: 300px;
     height: auto;
     margin-top: 20px;
   }
+  
