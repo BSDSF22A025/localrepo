@@ -2,3 +2,8 @@ body
 {background-color: #da6161;
 font-family: Arial, sans-serif;
 }
+img {
+    width: 300px;
+    height: auto;
+    margin-top: 20px;
+  }
